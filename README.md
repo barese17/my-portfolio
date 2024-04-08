@@ -1,2 +1,2 @@
-# my-portfolio
-my personal portfolio using three.js and nuxt.js
+# MY PERSONAL PORTFOLIO
+My personal portfolio using three.js and nuxt.js
